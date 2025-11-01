@@ -12,7 +12,7 @@ The main goal of this project is to raise awareness about the importance of a ba
 3. Write a short summary of the findings.
 4. Create and complete the README file on GitHub.
 5. Add a Project Board to track teamwork and progress.
-6. Final review and submission of the project for evaluation.
+6. Final review and submission of the project for evaluation
 
 ## Collaborators:
 
