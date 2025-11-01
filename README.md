@@ -14,15 +14,23 @@ The main goal of this project is to raise awareness about the importance of a ba
 5. Add a Project Board to track teamwork and progress.
 6. Final review and submission of the project for evaluation
 
-## Collaborators:
+## Collaborators "groupe 3":
 
-•Bilabas Hadille
-•annag Meriem 
-• Annani  Sirine 
-•Eschouf aicha
-•Yahiaoui Imane
-•Djamila menasri
-•Nakaâ Neila
-•Ahlem messaili
-•Touati Fella
+•Bilabas Hadille.
+
+•annag Meriem .
+
+• Annani  Sirine .
+
+•Eschouf aicha.
+
+•Yahiaoui Imane.
+
+•Djamila menasri.
+
+•Nakaâ Neila.
+
+•Ahlem messaili.
+
+•Touati Fella.
 
