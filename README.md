@@ -16,13 +16,13 @@ The main goal of this project is to raise awareness about the importance of a ba
 
 ## Collaborators:
 
-1_Bilabas Hadille
- 2_annag Meriem 
- 3_ Annani  Sirine 
-4_Eschouf aicha
-5_Yahiaoui Imane
-6_Djamila menasri
-7_Nakaâ Neila
-8_Ahlem messaili
-9_Touati Fella
+•Bilabas Hadille
+•annag Meriem 
+• Annani  Sirine 
+•Eschouf aicha
+•Yahiaoui Imane
+•Djamila menasri
+•Nakaâ Neila
+•Ahlem messaili
+•Touati Fella
 
